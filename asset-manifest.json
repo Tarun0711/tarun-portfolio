@@ -1,17 +1,19 @@
 {
   "files": {
-    "main.css": "/tarun-portfolio/static/css/main.3e7a4f02.css",
-    "main.js": "/tarun-portfolio/static/js/main.6046c353.js",
+    "main.css": "/tarun-portfolio/static/css/main.d9b69f23.css",
+    "main.js": "/tarun-portfolio/static/js/main.053a6117.js",
     "static/js/787.b4f6f604.chunk.js": "/tarun-portfolio/static/js/787.b4f6f604.chunk.js",
     "static/media/dp.png": "/tarun-portfolio/static/media/dp.dbadc216dfd62e807476.png",
-    "static/media/BACKGROUND.png": "/tarun-portfolio/static/media/BACKGROUND.b2bdd355d1aec83c3510.png",
+    "static/media/mern.png": "/tarun-portfolio/static/media/mern.42eef03b617e912e4596.png",
+    "static/media/c.jpg": "/tarun-portfolio/static/media/c.16c30d2acfb1c1f075da.jpg",
+    "static/media/react.png": "/tarun-portfolio/static/media/react.c2a6ac864c4ccb52e12e.png",
     "index.html": "/tarun-portfolio/index.html",
-    "main.3e7a4f02.css.map": "/tarun-portfolio/static/css/main.3e7a4f02.css.map",
-    "main.6046c353.js.map": "/tarun-portfolio/static/js/main.6046c353.js.map",
+    "main.d9b69f23.css.map": "/tarun-portfolio/static/css/main.d9b69f23.css.map",
+    "main.053a6117.js.map": "/tarun-portfolio/static/js/main.053a6117.js.map",
     "787.b4f6f604.chunk.js.map": "/tarun-portfolio/static/js/787.b4f6f604.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3e7a4f02.css",
-    "static/js/main.6046c353.js"
+    "static/css/main.d9b69f23.css",
+    "static/js/main.053a6117.js"
   ]
 }
