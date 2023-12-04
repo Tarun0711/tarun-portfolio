@@ -1,0 +1,291 @@
+@import url("https://fonts.googleapis.com/css?family=Faster+One:400|Federant:400|Inria+Sans:700,400");
+.about .index{
+  background-image: url(../images/BACKGROUND.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: fixed;
+  height: 924px;
+}
+.index {
+    background-color: #000000;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+.index .LOGO {
+    height: 90px;
+    left: 68px;
+    position: absolute;
+    top: 23px;
+    width: 158px;
+  }
+  
+  .index .overlap-2 {
+    height: 90px;
+    position: relative;
+    width: 150px;
+  }
+  
+  .index .overlap-3 {
+    height: 90px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 150px;
+  }
+  
+  .index .text-wrapper {
+    color: #fff400;
+    font-family: "Faster One", Helvetica;
+    font-size: 85px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 8.5px;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .index .text-wrapper-2 {
+    color: #ffffff;
+    font-family: "Federant", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 53px;
+    letter-spacing: 15.66px;
+    line-height: normal;
+    position: absolute;
+    top: 60px;
+  }
+  
+  .index .overlap-4 {
+    height: 39px;
+    left: 74px;
+    position: absolute;
+    top: 21px;
+    width: 71px;
+  }
+  
+  .index .text-wrapper-3 {
+    color: #ffffff;
+    font-family: "Federant", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 18.72px;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+  }
+  
+  .index .text-wrapper-4 {
+    color: #fff400;
+    font-family: "Federant", Helvetica;
+    font-size: 18px;
+    font-weight: 400;
+    left: 6px;
+    letter-spacing: 18.72px;
+    line-height: normal;
+    position: absolute;
+    top: 17px;
+  }
+  .index .BUTTON{
+    float: right;
+    margin:30px;
+    margin-left: 1540px;
+  }
+  .index .BUTTON button{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-family: "Federant";
+    font-weight: 500;
+    font-size: 32px;
+    padding:12px;
+    border-radius: 15px;
+    transition: 2s;
+    height: 65px;
+    width: 285px;
+    border: 2px solid gold;
+    background:yellow;
+  }
+  .index .BUTTON button:hover{
+    background:black;
+    color:#fff400;
+    font-weight: 700;
+  }
+  
+.index .greetings {
+    height: 199px;
+    left: 121px;
+    position: absolute;
+    top: 298px;
+    width: 575px;
+  }
+  
+  .index .TARUN-CHOUDHARY {
+    color: transparent;
+    font-family: "Fadirant";
+    font-size: 65px;
+    font-weight: 900;
+    left: 0;
+    letter-spacing: 10px;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    white-space: nowrap;
+  }
+  
+  .index .span {
+    color: #fff400;
+  }
+  
+  .index .text-wrapper-5 {
+    color: #ffffff;
+  }
+  
+  .index .div-wrapper {
+    background-color: #fff400;
+    border-radius: 15px;
+    height: 88px;
+    left: 4px;
+    position: absolute;
+    top: 150px;
+    width: 213px;
+  }
+  
+  .index .text-wrapper-6 {
+    color: #000000;
+    font-family: "Inria Sans", Helvetica;
+    font-size: 65px;
+    font-weight: 700;
+    left: 13px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 5px;
+    white-space: nowrap;
+  }
+  
+  .index .text-wrapper-7 {
+    color: #fff400;
+    font-family: "Inria Sans", Helvetica;
+    font-size: 65px;
+    font-weight: 700;
+    left: 252px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 150px;
+    width: 307px;
+  }
+  
+  .index .description {
+    height: 150px;
+    left: 134px;
+    position: absolute;
+    top: 540px;
+    width: 612px;
+  }
+  
+  .index .hello-i-m-tarun-a {
+    color: #ffffff;
+    font-family: "Inria Sans", Helvetica;
+    font-size: 25px;
+    font-weight: 400;
+    left: 0;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 0;
+    width: 610px;
+  }
+  
+  .index .group {
+    height: 54px;
+    left: 125px;
+    position: absolute;
+    top: 750px;
+    width: 447px;
+  }
+  
+  .index .overlap-5 {
+    background-color: #fff400;
+    border-radius: 15px;
+    height: 54px;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 193px;
+  }
+  
+  .index .text-wrapper-8 {
+    color: #000000;
+    font-family: "Inria Sans", Helvetica;
+    font-size: 35px;
+    font-weight: 700;
+    left: 31px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    top: 6px;
+    white-space: nowrap;
+  }
+  
+  .index .text-wrapper-9 {
+    color: #fff400;
+    font-family: "Inria Sans", Helvetica;
+    font-size: 35px;
+    font-weight: 700;
+    left: 295px;
+    letter-spacing: 0;
+    line-height: normal;
+    position: absolute;
+    text-decoration: underline;
+    top: 6px;
+    white-space: nowrap;
+  }
+  .index .dp{
+    margin-top:270px;
+    margin-left:700px;
+  }
+  .index .dp-img{
+    height:500px;
+    width: 500px;
+  }
+  .social-links{
+    height:80px;
+    margin-top: -200px;;
+    width: 400px;
+    margin-left: 200px;
+    display: flex;
+    justify-content: center;
+  }
+  .linkedIn, .github ,.twitter{
+    height:60px;
+    width:60px;
+    margin: 30px;
+    color:#fff400;
+    font-size: 60px;
+  }
+
+.page-2{
+  background: #000000;
+  margin-top: 250px;
+height: 100%;
+}
+.page-2 .skills{
+  text-align: center;
+}
+.page-2 .tag{
+  font-family: "Fadirant";
+  font-size: 85px;
+  text-decoration: underline;
+  letter-spacing: 10px;
+
+}
+  
+
+  
+  
